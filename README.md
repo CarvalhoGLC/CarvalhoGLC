@@ -1,11 +1,16 @@
 # Olá! 👋 Meu nome é Guilherme e sou Desenvolvedor Back-End!
 
-![Python](https://shields.io)
-![FastAPI](https://shields.io)
-![Git](https://shields.io)
-![Docker](https://shields.io)
+<div align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Docker" />
+</div>
 
 ---
 
 ### 📊 Estatísticas do GitHub
-![Status do GitHub](https://vercel.app)
+
+<div align="left">
+  <img src="https://vercel.app" alt="Status do GitHub" />
+</div>
