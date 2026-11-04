@@ -9,8 +9,8 @@
  | (x) (-) (+)                     ~/about.txt                                 |
  |-----------------------------------------------------------------------------|
  |                                                                             |
- | Olá! Sou o Guilherme, Desenvolvedor Back-end.                               |
- | Trabalho com Python e FastAPI, e uso Docker e PostgreSQL                    |
+ | Olá! Sou o Guilherme, Desenvolvedor Full Stack.                             |
+ | Trabalho com Python, FastAPI, Rust, uso Docker e PostgreSQL                 |
  | nos meus projetos.                                                          |
  |                                                                             |
  | Projetos: Amor & Luz, Eventos e Ingressos e estudos de FastAPI.             |
