@@ -1,46 +1,44 @@
-```text
-   ____       _ _ _
-  / ___|_   _(_) | |__   ___ _ __ _ __ ___   ___
- | |  _| | | | | | '_ \ / _ \ '__| '_ ` _ \ / _ \
- | |_| | |_| | | | | | |  __/ |  | | | | | |  __/
-  \____|\__,_|_|_|_| |_|\___|_|  |_| |_| |_|\___|
+<h1 align="center">Olá 👋, eu sou o Guilherme!</h1>
 
- .-----------------------------------------------------------------------------.
- | (x) (-) (+)                     ~/about.txt                                 |
- |-----------------------------------------------------------------------------|
- |                                                                             |
- | Olá! Sou o Guilherme, Desenvolvedor Full Stack.                             |
- | Trabalho com Python, FastAPI, Rust, uso Docker e PostgreSQL                 |
- | nos meus projetos.                                                          |
- |                                                                             |
- | Projetos: Amor & Luz, Eventos e Ingressos e estudos de FastAPI.             |
- | -@CarvalhoGLC                                                               |
- |                                                                             |
- '-----------------------------------------------------------------------------'
-```
-
-<p><img src="./imgs/headings/stack.svg" alt="01 Stack" width="168" height="51"></p>
-
-<p>
-  <img src="./imgs/icons/lang-python.svg" alt="Python" title="Python" width="60" height="60"
-  ><img src="./imgs/icons/lang-fastapi.svg" alt="FastAPI" title="FastAPI" width="60" height="60"
-  ><img src="./imgs/icons/lang-git.svg" alt="Git" title="Git" width="60" height="60"
-  ><img src="./imgs/icons/lang-docker.svg" alt="Docker" title="Docker" width="60" height="60"
-  ><img src="./imgs/icons/lang-postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="60" height="60">
+<p align="center">
+  <b>Desenvolvedor Full Stack</b> focado em construir APIs e sistemas web com Python, atualmente aprendendo Rust.
 </p>
 
-<p><img src="./imgs/headings/social.svg" alt="02 Social media" width="273" height="51"></p>
-
-<p>
-  <a href="https://github.com/CarvalhoGLC"><img src="./imgs/icons/github.svg" alt="GitHub" title="GitHub" width="60" height="60"></a
-  ><a href="https://www.linkedin.com/in/gclcosta/"><img src="./imgs/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="60" height="60"></a
-  ><a href="mailto:guilhermeclcosta@hotmail.com"><img src="./imgs/icons/email.svg" alt="Send me an email" title="Email" width="60" height="60"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gclcosta/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:guilhermeclcosta@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 </p>
 
-```text
- guilherme@carvalhoglc ~ % exit
- logout
- Saving session...completed.
+---
 
- [Process completed]▌
-```
+## 👨‍💻 Sobre mim
+
+- 🎯 Desenvolvedor Full Stack, com foco em **Python**, **FastAPI**, **Rust** e **React**
+- 🧱 Gosto de construir projetos completos, do banco de dados à interface
+- 🐳 Estudando e praticando **Docker** para padronizar ambientes de desenvolvimento
+- 📚 Sempre aprendendo: transformo estudos em projetos reais
+- 🤝 Aberto a conversas, colaborações e oportunidades
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Amor & Luz**](https://github.com/CarvalhoGLC/backend-amor-luz) | Site completo com backend e frontend ([frontend](https://github.com/CarvalhoGLC/frontend-amor-luz)) | Python · JavaScript |
+| [**Eventos e Ingressos**](https://github.com/CarvalhoGLC/Projeto-Eventos-e-Ingressos---Backend) | Plataforma interativa para eventos e ingressos, com usuários ([frontend](https://github.com/CarvalhoGLC/Projeto-Eventos-e-Ingressos---Frontend)) | Python · JavaScript |
+
+## 📫 Vamos conversar?
+
+Se quiser trocar ideia sobre back-end, Python ou projetos, me chama no [LinkedIn](https://www.linkedin.com/in/gclcosta/) ou por [e-mail](mailto:guilhermeclcosta@hotmail.com).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarvalhoGLC&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub"/>
+</p>
